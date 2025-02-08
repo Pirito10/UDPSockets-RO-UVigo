@@ -1,5 +1,5 @@
 # UDP Sockets
-*UDP Sockets* is a **Client-Server Application** developed as part of the course "[Redes de Ordenadores]()" in the Telecommunications Engineering Degree at the Universidad de Vigo (2020 - 2021).
+*UDP Sockets* is a **Client-Server Application** developed as part of the course "[Redes de Ordenadores](https://secretaria.uvigo.gal/docnet-nuevo/guia_docent/?centre=305&ensenyament=V05G301V01&assignatura=V05G301V01210&any_academic=2020_21)" in the Telecommunications Engineering Degree at the Universidad de Vigo (2020 - 2021).
 
 ## About The Project
 This project implements a simple client-server system where the client sends an integer to the server via UDP, a predefined value is added, and the result is sent back to the client, demonstrating the basics of socket programming and datagram communication.
