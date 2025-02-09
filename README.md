@@ -29,8 +29,8 @@ java -cp bin plusd <port> <N>
 
 | Option | Description | Example |
 |--------|-------------|---------|
-| `port` | Specifies the port where the server listens | `5000` |
-| `N` | Specifies the number to be added | `10` |
+| `port` | Port where the server listens | `5000` |
+| `N` | Number to be added | `10` |
 
 ##### Example
 ```bash
@@ -43,10 +43,10 @@ java -cp bin plus <server_ip> <server_port> <M> <timeout>
 ```
 | Option | Description | Example |
 |--------|-------------|---------|
-| `server_ip` | Specifies the server IP address | `127.0.0.1` |
-| `server_port` | Specifies the port where the server is listening | `5000` |
-| `M` | Specifies the number to be sent | `5` |
-| `timeout` | Specifies the maximum waiting time (in seconds) for a response | `2` |
+| `server_ip` | Server IP address | `127.0.0.1` |
+| `server_port` | Port where the server is listening | `5000` |
+| `M` | Number to be sent | `5` |
+| `timeout` | Maximum waiting time (in seconds) for a response | `2` |
 
 ##### Example
 ```bash
